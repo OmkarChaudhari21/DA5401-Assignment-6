@@ -55,7 +55,4 @@ Injected MAR missingness:
  Median imputation performed as well as the regression-based methods.  
  Listwise deletion degraded performance due to data loss (~19%).
 
----
-
-##  Folder Structure
 
